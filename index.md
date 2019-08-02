@@ -86,11 +86,15 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 - throttle cable adjustment
 
+- battery charging
+
 ### Infrequent
 
 - clutch fluid change
 
 - clutch cable change
+
+- clutch replacement
 
 - throttle cable change
 
@@ -113,6 +117,8 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 - ignition timing (points)
 
 - spark plug replacement
+
+- battery acid top-up
 
 ### Specialized
 
