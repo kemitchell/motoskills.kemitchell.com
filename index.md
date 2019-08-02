@@ -130,7 +130,7 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 - [Code's Twist of the Wrist](https://lccn.loc.gov/82073771)
 
-Code's Twist of the Wrist Volume 2
+- Code's Twist of the Wrist Volume 2
 
 - [Hough's Mastering the Ride, Second Edition](https://lccn.loc.gov/2012000847)
 
