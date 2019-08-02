@@ -112,32 +112,32 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 ### Books
 
-[Code's Twist of the Wrist](https://lccn.loc.gov/82073771)
+- [Code's Twist of the Wrist](https://lccn.loc.gov/82073771)
 
 Code's Twist of the Wrist Volume 2
 
-[Ienatsch's Sport Riding Techniques](https://lccn.loc.gov/2003100263)
+- [Hough's Mastering the Ride, Second Edition](https://lccn.loc.gov/2012000847)
 
-[Hough's Proficient Motorcycling, Second Edition](https://lccn.loc.gov/2007035379)
+- [Hough's Proficient Motorcycling, Second Edition](https://lccn.loc.gov/2007035379)
 
-[Hough's Mastering the Ride, Second Edition](https://lccn.loc.gov/2012000847)
+- [Ienatsch's Sport Riding Techniques](https://lccn.loc.gov/2003100263)
 
-[Cossalter's Motorcycle Dynamics](https://lccn.loc.gov/2002106290)
+- [Motorcycle Electrical Techbook](https://lccn.loc.gov/98071630)
 
-[Motorcycle Fuel Systems Techbook](https://lccn.loc.gov/98075324)
+- [Motorcycle Fuel Systems Techbook](https://lccn.loc.gov/98075324)
 
-[Motorcycle Electrical Techbook](https://lccn.loc.gov/98071630)
+- [Cossalter's Motorcycle Dynamics](https://lccn.loc.gov/2002106290)
 
 ### Films
 
-Twist of the Wrist
+- Twist of the Wrist
 
 ### YouTube Channels
 
-[MotoJitsu](https://www.youtube.com/channel/UC0FFFneMi9GwRHUsuBjM0jA)
+- [Canyon Chasers](https://www.youtube.com/user/canyonchaser)
 
-[Mike on Bikes](https://www.youtube.com/channel/UC3s6-k8S8pX2JzeRzYS24UQ)
+- [Mike on Bikes](https://www.youtube.com/channel/UC3s6-k8S8pX2JzeRzYS24UQ)
 
-[Canyon Chasers](https://www.youtube.com/user/canyonchaser)
+- [MotoJitsu](https://www.youtube.com/channel/UC0FFFneMi9GwRHUsuBjM0jA)
 
-[Motorcyclist](https://www.youtube.com/user/MotorcyclistMag)
+- [Motorcyclist](https://www.youtube.com/user/MotorcyclistMag)
