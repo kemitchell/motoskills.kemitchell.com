@@ -26,6 +26,8 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 - trail braking
 
+- stoppie
+
 ### Transmission
 
 - blipping downshift
@@ -99,6 +101,12 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 - coolant change
 
 - coolant flush
+
+- idle set
+
+- ignition timing (points)
+
+- spark plug replacement
 
 ### Specialized
 
