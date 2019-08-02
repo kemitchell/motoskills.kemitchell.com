@@ -2,7 +2,13 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 <h2 id="riding">Riding</h2>
 
+### General
+
+- looking ahead
+
 ### Handling
+
+- countersteering
 
 - emergency swerve
 
