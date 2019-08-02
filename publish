@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+make -q
+scp -q index.html motoskills.kemitchell.com:/var/www/motoskills.kemitchell.com/
+
