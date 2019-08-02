@@ -1,4 +1,9 @@
-index.html: index.md _before.html _after.html
+COMMONMARK=node_modules/.bin/commonmark
+
+index.html: index.md _before.html _after.html | $(COMMONMARK)
 	cat _before.html > $@
-	npx commonmark < index.md >> $@
+	$(COMMONMARK) < index.md >> $@
 	cat _after.html >> $@
+
+$(COMMONMARK):
+	npm ci
