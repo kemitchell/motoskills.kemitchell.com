@@ -1,3 +1,4 @@
 #!/bin/sh
-make -q --always-make
-scp index.html motoskills.kemitchell.com:/var/www/motoskills.kemitchell.com/
+set -e
+make --quiet --always-make
+scp -q index.html motoskills.kemitchell.com:/var/www/motoskills.kemitchell.com/
