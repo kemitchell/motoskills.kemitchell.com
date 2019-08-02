@@ -94,6 +94,12 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 - throttle cable change
 
+- tire replacement
+
+- tire patch (radial)
+
+- tube patch
+
 - air filter service
 
 - carburetor cleaning
