@@ -134,6 +134,10 @@ Twist of the Wrist
 
 ### YouTube Channels
 
+[MotoJitsu](https://www.youtube.com/channel/UC0FFFneMi9GwRHUsuBjM0jA)
+
+[Mike on Bikes](https://www.youtube.com/channel/UC3s6-k8S8pX2JzeRzYS24UQ)
+
 [Canyon Chasers](https://www.youtube.com/user/canyonchaser)
 
 [Motorcyclist](https://www.youtube.com/user/MotorcyclistMag)
