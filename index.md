@@ -122,6 +122,8 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 - safety wiring
 
+- light taping
+
 <h2 id="resources">Resources</h2>
 
 ### Books
