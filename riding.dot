@@ -27,4 +27,5 @@ digraph {
   "clutch downshift" -> "clutchless downshift";
   "clutch downshift" -> "rev matching downshift";
   "rev matching downshift" -> "blipping while braking";
+  {"clutch control", "throttle control"} -> "launch";
 }
