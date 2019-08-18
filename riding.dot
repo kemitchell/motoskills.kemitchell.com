@@ -3,7 +3,7 @@ digraph {
   "riding" -> {"clutch control", "front brake control", "rear brake control", "throttle control", "countersteering", "looking ahead", "neutral body position"};
   "neutral body position" -> "inside body position";
   "neutral body position" -> "aft body position" -> "emergency stop";
-  "neutral body position" -> "outside body position" -> "U-turn";
+  "neutral body position" -> "outside body position" -> "u-turn";
   "countersteering" -> "simple-radius turn";
   "simple-radius turn" -> {"compound-radius turn", "off-camber turn"};
   "inside body position" -> "simple-radius turn" -> "chicane";
@@ -11,13 +11,13 @@ digraph {
   "clutch control" -> "clutch downshift";
   "clutch control" -> "clutch wheelie";
   "throttle control" -> "clutch wheelie";
-  "looking ahead" -> "U-turn";
+  "looking ahead" -> "u-turn";
   "countersteering" -> "trail braking";
   "countersteering" -> "swerve";
   "throttle control" -> "engine braking" -> "trail braking";
   "clutch wheelie" -> "power wheelie";
-  "U-turn" -> "tight circle" -> "figure eight";
-  "rear brake control" -> "U-turn";
+  "u-turn" -> "tight circle" -> "figure eight";
+  "rear brake control" -> "u-turn";
   "rear brake control" -> "backing in";
   "rear brake control" -> "linked braking";
   "front brake control" -> "linked braking";
