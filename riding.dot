@@ -2,6 +2,7 @@ digraph {
   rankdir=LR;
   "riding" -> {"clutch control", "front brake control", "rear brake control", "throttle control", "countersteering", "looking ahead", "neutral body position"};
   "neutral body position" -> "inside body position";
+  "neutral body position" -> "aft body position" -> "emergency stop";
   "neutral body position" -> "outside body position" -> "U-turn";
   "countersteering" -> "simple-radius turn";
   "simple-radius turn" -> {"compound-radius turn", "off-camber turn"};
