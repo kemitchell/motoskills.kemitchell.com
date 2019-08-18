@@ -1,0 +1,29 @@
+digraph {
+  rankdir=LR;
+  "riding" -> {"clutch control", "front brake control", "rear brake control", "throttle control", "countersteering", "looking ahead", "neutral body position"};
+  "neutral body position" -> "inside body position";
+  "neutral body position" -> "outside body position" -> "U-turn";
+  "countersteering" -> "simple-radius turn";
+  "simple-radius turn" -> {"compound-radius turn", "off-camber turn"};
+  "inside body position" -> "simple-radius turn" -> "chicane";
+  "clutch control" -> "clutch upshift";
+  "clutch control" -> "clutch downshift";
+  "clutch control" -> "clutch wheelie";
+  "throttle control" -> "clutch wheelie";
+  "looking ahead" -> "U-turn";
+  "countersteering" -> "trail braking";
+  "countersteering" -> "swerve";
+  "throttle control" -> "engine braking" -> "trail braking";
+  "clutch wheelie" -> "power wheelie";
+  "U-turn" -> "tight circle" -> "figure eight";
+  "rear brake control" -> "U-turn";
+  "rear brake control" -> "backing in";
+  "rear brake control" -> "linked braking";
+  "front brake control" -> "linked braking";
+  "linked braking" -> "trail braking";
+  "linked braking" -> "emergency stop" -> "stoppie";
+  "clutch upshift" -> "clutchless upshift";
+  "clutch downshift" -> "clutchless downshift";
+  "clutch downshift" -> "rev matching downshift";
+  "rev matching downshift" -> "blipping while braking";
+}

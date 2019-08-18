@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
 make --quiet --always-make
-scp -q index.html motoskills.kemitchell.com:/var/www/motoskills.kemitchell.com/
+scp -q index.html *.css *.svg motoskills.kemitchell.com:/var/www/motoskills.kemitchell.com/

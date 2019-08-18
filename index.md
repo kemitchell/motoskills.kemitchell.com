@@ -2,45 +2,7 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 <h2 id="riding">Riding</h2>
 
-### General
-
-- looking ahead
-
-### Handling
-
-- countersteering
-
-- emergency swerve
-
-- figure eight
-
-- lane splitting
-
-### Braking
-
-- emergency stop
-
-- linked braking
-
-- engine braking
-
-- trail braking
-
-- stoppie
-
-### Transmission
-
-- blipping downshift
-
-- slipping downshift
-
-### Composite
-
-- rev matching while braking
-
-- wheelie
-
-- backing in
+![riding skills tree](./riding.svg)
 
 <h2 id="maintenance">Maintenance</h2>
 
