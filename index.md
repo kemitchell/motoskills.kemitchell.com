@@ -2,7 +2,7 @@ Jump To: [Riding Skills](#riding), [Maintenance Skills](#maintenance), [Resource
 
 <h2 id="riding">Riding</h2>
 
-![riding skills tree](./riding.svg)
+<a href="./riding.svg"><img alt="riding skills tree" src="./riding.svg"></a>
 
 <h2 id="maintenance">Maintenance</h2>
 
